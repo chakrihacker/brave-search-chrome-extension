@@ -14,5 +14,8 @@
           "search_url": "https://search.brave.com/search?q={searchTerms}",
           "suggest_url": "https://search.brave.com/api/suggest?q={searchTerms}&type=list"
         }
+    },
+    "icons": {
+        "128": "icon.png"
     }
 }
